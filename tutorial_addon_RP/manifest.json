@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Tutorial Addon Resource Pack",
+        "description": "This is my tutorial addon resoure pack.",
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "uuid": "bade9c51-fb18-4a76-a52b-77834cbb3148"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "ef2f6683-79e4-4184-8ff0-a841f1375b79",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
