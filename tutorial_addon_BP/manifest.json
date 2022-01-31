@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Tutorial Addon Behavior Pack",
+        "description": "This is my tutorial addon behavior pack.",
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "uuid": "d5023f23-b032-47d8-8374-251c3bb3a9df"
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "a75a61d1-fd8e-4ff6-85ef-8a5d6aef3971",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
